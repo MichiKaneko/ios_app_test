@@ -14,6 +14,8 @@
 		0F6FB8C829472D030030ECCD /* boundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6FB8C729472D030030ECCD /* boundTests.swift */; };
 		0F6FB8D229472D030030ECCD /* boundUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6FB8D129472D030030ECCD /* boundUITests.swift */; };
 		0F6FB8D429472D030030ECCD /* boundUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6FB8D329472D030030ECCD /* boundUITestsLaunchTests.swift */; };
+		0F6FB8E12947373E0030ECCD /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6FB8E02947373E0030ECCD /* ThirdView.swift */; };
+		0F6FB8E3294737820030ECCD /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6FB8E2294737820030ECCD /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		0F6FB8CD29472D030030ECCD /* boundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = boundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F6FB8D129472D030030ECCD /* boundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boundUITests.swift; sourceTree = "<group>"; };
 		0F6FB8D329472D030030ECCD /* boundUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boundUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0F6FB8E02947373E0030ECCD /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		0F6FB8E2294737820030ECCD /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				0F6FB8B829472CFF0030ECCD /* ContentView.swift */,
 				0F6FB8BA29472D030030ECCD /* Assets.xcassets */,
 				0F6FB8BC29472D030030ECCD /* Preview Content */,
+				0F6FB8E02947373E0030ECCD /* ThirdView.swift */,
+				0F6FB8E2294737820030ECCD /* SecondView.swift */,
 			);
 			path = bound;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F6FB8B929472CFF0030ECCD /* ContentView.swift in Sources */,
+				0F6FB8E12947373E0030ECCD /* ThirdView.swift in Sources */,
+				0F6FB8E3294737820030ECCD /* SecondView.swift in Sources */,
 				0F6FB8B729472CFF0030ECCD /* boundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
